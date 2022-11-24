@@ -1,0 +1,4 @@
+print ("========== PROGRAM PENGHITUNG PYTHAGORAS ==========")
+V1 = int(input("masukkan bilangan bulat pertama: 3"))
+V2 = int(input("masukkan bilangan bulat kedua: 4"))
+V3 = int(input("masukkan bilangan bulat ketiga: 5"))
